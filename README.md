@@ -1,6 +1,6 @@
 # Statistical Learning Method Code
 
-Code implementation of Statistical Learning Method, Second Edition.
+Code implementation of Statistical Learning Method, Second Edition. 李航《统计学习方法（第二版）》中算法的程序实现.
 
 ## Contents
 
